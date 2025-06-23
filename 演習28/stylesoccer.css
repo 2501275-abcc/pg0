@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(252, 239, 245);
+    margin: 0;
+}
+
+.common img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.common h1{
+    color: aquamarine;
+}

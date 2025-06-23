@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(252, 239, 245);
+    margin: 0;
+}
+
+div{
+    margin: 0;
+}
+
+#menu{
+    background-color: black;
+    color: #ffffff;
+    padding: 10px;
+    width: 100%;
+}
+
+#menu a:hover{
+    background-color: aqua;
+}
+
+#menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+#menu a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+div{
+    margin: 0;
+}
+
+#picture img{
+    position: fixed;
+    right:0;
+    height: 80%;
+    width: 65%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+
+#mine h1{
+    text-indent: 11.3%;
+    font-size: 200%;
+    font-weight: bold;
+    margin-bottom: -180px;
+    color: aquamarine;
+}
+
+#name h1{
+    text-indent: 12%;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 200px;
+}
